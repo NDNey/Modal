@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="This is where your description goes">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Title in the tab</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<button data-modal-target="#modal">Open Modal</button>
+		<div class="modal" id="modal">
+		  <div class="modalHeader">
+			<div class="title"><form onsubmit="return false" id="form">
+				<p>Header</p>
+			</form></div>
+			<button data-close-button class="closeButton">&times;</button>
+		  </div>
+		  <div class="modalBody">
+		
+			<div class="content">
+				<div class="type ultimate">
+					<p>Your content</p>
+				</div>
+				<div class="plan">
+	
+					<div class="header">
+						<sup id="next">More content</sup>
+						<p class="month">More content</p>
+					</div>
+					<div class="content">
+						<ul id="nextLevel">
+							<li>Example</li>
+							<li>Example</li>
+							<li>Example</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		  </div>
+		</div>
+		<div id="overlay"></div>
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>
