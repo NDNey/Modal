@@ -1,6 +1,13 @@
 *, *::after, *::before {
   box-sizing: border-box;
 }
+body{
+  display: flex;
+  align-items: center;
+ justify-content: center;
+  height: 100vh;
+  background-color:rgb(15,139,241);
+}
 
 .modal {
   position: fixed;
