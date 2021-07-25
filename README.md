@@ -13,4 +13,21 @@
   </tr>
 </tbody></table>
 </article>
-   
+# CodeWars Code Challenges Solution
+I love Practicing doing some code challenges. First thing in the morning for me is a cup of coffee and a couple CodeWars. This repo has the answer for the katas I have solve in the codewar platform.
+
+**Link to [My Codewars profile](https://www.codewars.com/users/DavidNey)!**
+
+<a target="_blank" href="https://www.codewars.com/users/DavidNey">
+	<img src="https://www.codewars.com/users/DavidNey/badges/large" width="100%" height="270">
+  </a>
+
+## What is In this Repo:
+
+This repo is just a template that I use to save my code challenge solutions. In the .js files you will find the different answers by level of difficulty for example 7Kyu.js has answers for 7Kyu I have solved. You will find the challenge description commented out follow by the solution. Keep in mind that the answers in the .js files are just the first solution that came to mi mind while solving the challenge so most of the time they will not be the optimal or cleaner solution.
+
+## Lessons Learned:
+
+By doing code challenges every day is easier for me to remember all the methods and tricks in JavaScript. Thanks to this habit my coding skills have improved and when I am building is easier for me to type, remember the syntax and the use of different methods. 
+
+
