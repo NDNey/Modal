@@ -14,15 +14,13 @@
 </tbody></table>
 </article>
 # Modal
-This is an easy to use modal that you can add to your projects. Just add the div that contains the odal and style it In the .css file
+This is an easy-to-use modal that you can add to your projects.
 
 
 ## What is In this Repo:
 
-This repo is just a template that I use to save my code challenge solutions. In the .js files you will find the different answers by level of difficulty for example 7Kyu.js has answers for 7Kyu I have solved. You will find the challenge description commented out follow by the solution. Keep in mind that the answers in the .js files are just the first solution that came to mi mind while solving the challenge so most of the time they will not be the optimal or cleaner solution.
+This repo contains a simple Modal created using HTML, CSS and JavaScript that can be embedded in any other project that uses the same tools. You can simply add the div that contains the modal and style it using CSS.
 
 ## Lessons Learned:
 
-By doing code challenges every day is easier for me to remember all the methods and tricks in JavaScript. Thanks to this habit my coding skills have improved and when I am building is easier for me to type, remember the syntax and the use of different methods. 
-
-
+Recycling tools has been really useful when it comes to add functionality to websites or webapps. I can reuse this modal in different projects an apply different style to it depending on the project. It is a time saving practice while building.
