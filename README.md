@@ -13,14 +13,9 @@
   </tr>
 </tbody></table>
 </article>
-# CodeWars Code Challenges Solution
-I love Practicing doing some code challenges. First thing in the morning for me is a cup of coffee and a couple CodeWars. This repo has the answer for the katas I have solve in the codewar platform.
+# Modal
+This is an easy to use modal that you can add to your projects. Just add the div that contains the odal and style it In the .css file
 
-**Link to [My Codewars profile](https://www.codewars.com/users/DavidNey)!**
-
-<a target="_blank" href="https://www.codewars.com/users/DavidNey">
-	<img src="https://www.codewars.com/users/DavidNey/badges/large" width="100%" height="270">
-  </a>
 
 ## What is In this Repo:
 
