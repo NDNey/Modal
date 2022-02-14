@@ -19,6 +19,4 @@ This is an easy-to-use modal that you can add to your projects.
 
 This repo contains a simple Modal created using HTML, CSS and JavaScript that can be embedded in any other project that uses the same tools. You can simply add the div that contains the modal and style it using CSS.
 
-## Lessons Learned:
-
-Recycling tools has been really useful when it comes to add functionality to websites or webapps. I can reuse this modal in different projects an apply different style to it depending on the project. It is a time saving practice while building.
+ 
